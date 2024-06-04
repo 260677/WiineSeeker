@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "moduleResolution": "Node",
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "*.ts"
+    ]
+}

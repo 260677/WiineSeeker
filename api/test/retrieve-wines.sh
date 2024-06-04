@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjI5N2Y0ZDYwY2RjMTBiZmJkOTJhMjkiLCJpYXQiOjE3MTQwMzE2ODcsImV4cCI6MTcxNDAzNTI4N30.akZEPNZLwnmmNoRkKvz4AaEfUlm-CiEcSvlxJjnIBZY" http://localhost:8080/wines -v

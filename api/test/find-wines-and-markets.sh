@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjJiYmZmMDc4NzhkN2M4ZGE2NWJjNWEiLCJpYXQiOjE3MTUyMzk1MDcsImV4cCI6MTcxNTI0MzEwN30.1_vVb6kwXay7YjMx4qyXpHbEggmG32aT8yr2InDl7dU" "http://localhost:8080/wines?latitude=41.4020559&longitude=2.2080025&proximity=750&minPrice=2>&maxPrice=9&type=white" -v
