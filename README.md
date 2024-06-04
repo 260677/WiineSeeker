@@ -2,7 +2,7 @@
 
 ## Intro
 
-WineSeeker is a wine searcher app focused mainly in supermarkets and small wine shops around Barcelona, right now especially centred in Poblenou. The search includes wine type (red, white or pink), price range, and a range of proximity defined by the user, up to 1KM. It also filters markets by their opening hours.
+WineSeeker is a wine searcher app developed with REACT abd Typescript focused mainly in supermarkets and small wine shops around Barcelona, right now especially centred in Poblenou. The search includes wine type (red, white or pink), price range, and a range of proximity defined by the user, up to 1KM. It also filters markets by their opening hours.
 
 Wines are based also on a low - medium budget. So far the more expensive is 20 euros.
 
@@ -33,17 +33,7 @@ v0.1
 - finally, evaluate the whole experience
 
 
-### UI Design
-
-[Figma] https://www.figma.com/file/tw2wazXlDMn6NxIq3VNC4o/Project-ONE?type=design&node-id=55%3A649&mode=dev&t=M4mmB3qjR3B4kXCZ-1
-
 ## Technical Description
-
-### Modules
-
-- api (server logic)
-- app (client interface)
-- com (common utils, tools, ...)
 
 ### Technologies
 
